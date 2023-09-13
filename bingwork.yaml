@@ -1,11 +1,8 @@
 # binbin自己work用的
 payload:
-  - DST-PORT,7895,REJECT
-  - DST-PORT,7892,REJECT
-  - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
+  - DST-PORT,22,DIRECT
   - DOMAIN,imap.libero.it,Mail
   - DOMAIN,smtp.libero.it,Mail
-  - DST-PORT,22,DIRECT
   - DOMAIN-SUFFIX,larksuite.com,Proxy
   - DOMAIN-SUFFIX,larksuitecdn.com,Proxy
   - DOMAIN-SUFFIX,hsbc.com.hk,HK
