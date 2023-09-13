@@ -1,4 +1,6 @@
 # abing自己用的
 payload:
-  - DST-PORT,22,DIRECT
+  - DST-PORT,22
+  - DOMAIN-KEYWORD,smtp
+  - DOMAIN-KEYWORD,imap
   - DOMAIN-SUFFIX,steamcontent.com
