@@ -1,3 +1,4 @@
+# binbin自己work用的
 payload:
   - DST-PORT,7895,REJECT
   - DST-PORT,7892,REJECT
