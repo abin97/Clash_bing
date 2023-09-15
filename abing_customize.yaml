@@ -1,4 +1,4 @@
-# abing自己用的
+# 需要自建节点的
 payload:
   - DOMAIN,imap.libero.it
   - DOMAIN,smtp.libero.it
