@@ -6,3 +6,5 @@ payload:
   - DOMAIN,smtp.gmail.com
   - DOMAIN,m.google.com
   - DOMAIN,outlook.office365.com
+  - DOMAIN,apple.imap.mail.yahoo.com
+  - DOMAIN,apple.smtp.mail.yahoo.com
