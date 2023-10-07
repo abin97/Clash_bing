@@ -1,5 +1,6 @@
 # abing自己用的
 payload:
+  - DOMAIN,translate.googleapis.com
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,larksuitecdn.com
   - DOMAIN-SUFFIX,openwrt.ai
